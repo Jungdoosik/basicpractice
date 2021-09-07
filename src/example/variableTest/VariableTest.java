@@ -58,11 +58,6 @@ public class VariableTest {
 		//소수점 아래 한자리까지
 		System.out.printf("반지름이 %d인 원의 둘레 : %.1f\n", inum, 2*inum*pi);
 		System.out.printf("반지름이 %d인 원의 면적 : %.1f\n", inum, inum*inum*pi);
-		
-		
-		
-		
-		
 	}
 
 }
